@@ -162,7 +162,7 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "50%" //Insert relative proficiency in percentage
+      progressPercentage: "60%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
@@ -184,7 +184,7 @@ const workExperiences = {
     {
       role: "PHP developer",
       company: "Cat Marketing Systems",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/cat.png"),
       date: "August 2024 – Present",
       desc: "As a PHP Developer at Cat Marketing Systems, I specialize in creating, maintaining, and optimizing web applications. My responsibilities include:",
       descBullets: [
@@ -195,14 +195,14 @@ const workExperiences = {
     // {
     //   role: "Front-End Developer",
     //   company: "Quora",
-    //   companylogo: require("./assets/images/quoraLogo.png"),
+    //   companylogo: require("./assets/images/quoraLo.png"),
     //   date: "May 2017 – May 2018",
     //   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     // },
     {
       role: "Production Inspector",
       company: "Innvative Biscuits Limited Lahore ",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/innovative.png"),
       date: "October 2019 – August 2020",
       desc: "As a Production Inspector at Innovative Biscuits Limited, I was responsible for ensuring product quality and adherence to manufacturing standards. Key responsibilities included:"
       descBullets: [
@@ -230,7 +230,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/wearhouse.png"),
       projectName: "Wearhouse Management System",
       projectDesc: "PHP-based admin panel for managing companies, branches, stock, and items. It features user authentication and dynamic
 forms for efficient data management and business",
@@ -243,7 +243,7 @@ forms for efficient data management and business",
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/signage.png"),
       projectName: "Signage",
       projectDesc: "Developed Signage, a dynamic digital signage platform that allows businesses to upload and manage assets such as images and videos for screen advertisements. Integrated features for scheduling playlists, setting screen durations, and remotely controlling content across multiple displays using PHP, jQuery, AJAX, and MySQL.",
       footerLink: [
