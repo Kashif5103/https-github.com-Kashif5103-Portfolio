@@ -315,7 +315,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
@@ -347,15 +347,21 @@ const blogSection = {
 const talkSection = {
   title: "TALKS",
   subtitle: emoji(
-    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
+    "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A Attendee BADGE 😅"
   ),
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "GDG Lahore at Tkxel",
+      subtitle: "Attendee at GDG Lahore Session",
+      slides_url: "http://surl.li/ycpvlh",
+      event_url: "http://surl.li/phfrmp"
+    },
+        {
+      title: "Tech Tehwar",
+      subtitle: "Attendee at Tech Tehwar 2024",
+      slides_url: "https://lnkd.in/dPVPkMcP", // If there are slides, replace null with the URL
+      event_url: "http://surl.li/myhojc" // If there is an event page, replace null with the URL
     }
   ],
   display: true // Set false to hide this section, defaults to true
