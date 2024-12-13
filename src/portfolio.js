@@ -245,11 +245,11 @@ forms for efficient data management and business",
     {
       image: require("./assets/images/nextuLogo.webp"),
       projectName: "Signage",
-      projectDesc: "Developed DisplayWave, a dynamic digital signage platform that allows businesses to upload and manage assets such as images and videos for screen advertisements. Integrated features for scheduling playlists, setting screen durations, and remotely controlling content across multiple displays using PHP, jQuery, AJAX, and MySQL.",
+      projectDesc: "Developed Signage, a dynamic digital signage platform that allows businesses to upload and manage assets such as images and videos for screen advertisements. Integrated features for scheduling playlists, setting screen durations, and remotely controlling content across multiple displays using PHP, jQuery, AJAX, and MySQL.",
       footerLink: [
         {
-          // name: "Visit Website",
-          // url: "http://nextu.se/"
+          name: "Visit Website",
+          url: "http://surl.li/slosic"
         }
       ]
     }
